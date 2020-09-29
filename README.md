@@ -6,3 +6,25 @@ I have worked in the City as a consultant for the likes of Financial Times and L
 
 My interests include popular science 🧪, space 🚀, financial trading 📈, cryptocurrencies ₿ and artificial intelligence 🧠.
 
+# My mechanical keyboards
+
+- Keychron K2 Wireless Mechanical Keyboard (Version 2 with PBT Keycaps) - RGB Backlight Aluminum Frame / Brown Switches
+- Ducky One 2 Mini RGB LED 60% Double Shot PBT
+- DREVO Excalibur 84-Key Full Metal Mechanical - Brown Cherry Switch with Specially Coated Keycaps Black Edition
+
+# My dev environment
+
+- [Dell XPS-13 9360](https://www.dell.com/lt/p/xps-13-9360-laptop/pd)
+  - Intel® Core™ i7-8550U Quad-core Processor 1.8 GHz / 4 GHz (Turbo Boost) 8 MB cache
+  - 16 GB LPDDR3 (1866 MHz)
+  - 512 GB SSD
+  - 13.3" LCD display 3200×1800 Infinity Edge 10-point touchscreen
+  - Bluetooth 4.1
+- Primary OS: [Arch Linux](https://www.archlinux.org/)
+- Shell: zsh, with [oh my zsh](https://ohmyz.sh/)
+- Editors:
+  - Visual Studio Code
+  - Vim
+- Other tools:
+  - tmux
+  - [Powerline](https://powerline.readthedocs.io/en/master/)
