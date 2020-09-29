@@ -4,7 +4,7 @@ I'm Sam and I love coding and all things geek 🤓.
 
 I'm originally from Italy 🇮🇹🍝 but I've lived in London for a long time.
 
-I have worked for years in the City of London as a consultant, for the likes of Financial Times and Lloyds.
+I have worked for years in the City of London as a consultant, for the likes of Financial Times and Lloyds Banking Group.
 
 My interests include popular science 🧪, space 🚀, finance 📈, cryptocurrencies ₿ and artificial intelligence 🧠.
 
