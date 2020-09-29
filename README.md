@@ -1,18 +1,20 @@
-Hello! 👋 I'm Sam and I love coding and all things geek 🤓.
+# Hi! 👋
+
+I'm Sam and I love coding and all things geek 🤓.
 
 I'm originally from Italy 🇮🇹🍝 but I've lived in London for a long time.
 
-I have worked in the City as a consultant for the likes of Financial Times and Lloyds.
+I have worked for years in the City of London as a consultant, for the likes of Financial Times and Lloyds.
 
-My interests include popular science 🧪, space 🚀, financial trading 📈, cryptocurrencies ₿ and artificial intelligence 🧠.
+My interests include popular science 🧪, space 🚀, finance 📈, cryptocurrencies ₿ and artificial intelligence 🧠.
 
-# My mechanical keyboards
+# Mechanical keyboards
 
 - Keychron K2 Wireless Mechanical Keyboard (Version 2 with PBT Keycaps) - RGB Backlight Aluminum Frame / Brown Switches
 - Ducky One 2 Mini RGB LED 60% Double Shot PBT
 - DREVO Excalibur 84-Key Full Metal Mechanical - Brown Cherry Switch with Specially Coated Keycaps Black Edition
 
-# My dev environment
+# Dev environment
 
 - [Dell XPS-13 9360](https://www.dell.com/lt/p/xps-13-9360-laptop/pd)
   - Intel® Core™ i7-8550U Quad-core Processor 1.8 GHz / 4 GHz (Turbo Boost) 8 MB cache
