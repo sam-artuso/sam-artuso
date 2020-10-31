@@ -30,3 +30,5 @@ My interests include popular science 🧪, space 🚀, finance 📈, cryptocurre
 - Other tools:
   - tmux
   - [Powerline](https://powerline.readthedocs.io/en/master/)
+- Monospaced font: [Inconsolata](https://levien.com/type/myfonts/inconsolata.html)
+
