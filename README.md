@@ -32,3 +32,8 @@ My interests include popular science 🧪, space 🚀, finance 📈, cryptocurre
   - [Powerline](https://powerline.readthedocs.io/en/master/)
 - Monospaced font: [Inconsolata](https://levien.com/type/myfonts/inconsolata.html)
 
+# Favourite YouTube channels
+- [PBS Space Time](https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g)
+- [Veritasium](https://www.youtube.com/user/1veritasium)
+- [SmarterEveryDay](https://www.youtube.com/user/destinws2)
+
