@@ -33,6 +33,7 @@ My interests include popular science 🧪, space 🚀, finance 📈, cryptocurre
 - Monospaced font: [Inconsolata](https://levien.com/type/myfonts/inconsolata.html)
 
 # Favourite YouTube channels
+- [Kurzgesagt](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q)
 - [PBS Space Time](https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g)
 - [Veritasium](https://www.youtube.com/user/1veritasium)
 - [SmarterEveryDay](https://www.youtube.com/user/destinws2)
