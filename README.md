@@ -1,6 +1,6 @@
 # Hi! 👋
 
-I'm Sam and I love coding and all things geek 🤓.
+I'm Sam, I love coding and all things geek 🤓.
 
 I'm originally from Italy 🇮🇹🍝 but I've lived in London for a long time.
 
